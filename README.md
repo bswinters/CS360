@@ -1,1 +1,3 @@
 # CS360
+The goal of this project was to use the TMP006 temperature sensor to read the room temperature (via I2C), an LED to indicate the output to the thermostat where LED on = heat on (via GPIO), two buttons to increase and decrease the set temperature (via GPIO interrupt), and the UART to simulate the data being sent to the server.
+Particularly, I created the diagrams very well and I could improve on my code logic. The critical thinking skills used in this project will carry over into other areas. This project is maintainable, readable, and adaptable since we used up to date products and used a modular programming style.
